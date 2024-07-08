@@ -37,8 +37,9 @@ Welcome to the Mess Management System! This application is designed to streamlin
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/xisxus/ADO.Net_MessManageMentSln.git
-
+```sh
+https://github.com/xisxus/ADO.Net_MessManageMentSln.git
+```
 2. Open the project in Visual Studio:
 - Open the `ADO.Net_MessManageMentSln.sln` file in Visual Studio.
 
