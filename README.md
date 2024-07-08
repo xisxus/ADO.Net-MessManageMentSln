@@ -7,7 +7,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Screenshots](#Screenshots)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -56,14 +56,12 @@ https://github.com/xisxus/ADO.Net_MessManageMentSln.git
 
 ### Screenshots
 
-[
-![Screenshot 2024-07-08 234629](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/df65dfcd-4b45-46af-95bf-64ab20128fb6)
-![Screenshot 2024-07-08 234654](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/ec68409f-85a1-42a9-96fb-514b5c880acb)
-![Screenshot 2024-07-08 234706](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/181eef46-21f8-4449-99b8-44169c29d251)
-![Screenshot 2024-07-08 234718](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/0b803687-8548-4799-a001-6dc7382892db)
-![Screenshot 2024-07-08 234730](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/b82941db-b6e5-4656-b677-5e9c1f274e37)
-![Screenshot 2024-07-08 234913](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/66bdfb2e-152f-4cfa-b30c-46b6e0825852)
-](url)
+<img src="https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/df65dfcd-4b45-46af-95bf-64ab20128fb6" width="400">
+<img src="https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/ec68409f-85a1-42a9-96fb-514b5c880acb" width="400">
+<img src="https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/181eef46-21f8-4449-99b8-44169c29d251" width="400">
+<img src="https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/0b803687-8548-4799-a001-6dc7382892db" width="400">
+<img src="https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/b82941db-b6e5-4656-b677-5e9c1f274e37" width="400">
+<img src="https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/66bdfb2e-152f-4cfa-b30c-46b6e0825852" width="400">
 
 
 ## Contributing
