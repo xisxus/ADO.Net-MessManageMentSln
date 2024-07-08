@@ -7,6 +7,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Screenshots](#Screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -53,7 +54,7 @@ https://github.com/xisxus/ADO.Net_MessManageMentSln.git
 - Press `F5` to build and run the project.
 
 
-## Screenshots
+### Screenshots
 
 [
 ![Screenshot 2024-07-08 234629](https://github.com/xisxus/ADO.Net_MessManageMentSln/assets/172262255/df65dfcd-4b45-46af-95bf-64ab20128fb6)
